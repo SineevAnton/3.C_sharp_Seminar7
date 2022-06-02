@@ -16,20 +16,24 @@ int[,] CreateAndShowArrayRowXCol(int row, int col)
             array[r, c] = rnd.Next(0, 6);
             Console.Write(array[r, c] + "\t");
         }
-    Console.WriteLine();
+        Console.WriteLine();
     }
     return array;
 }
 
-int[,] arr = CreateAndShowArrayRowXCol(rows, cols);
-
-Console.Write("Arithmetic mean of the elements in each column: ");
-for (int i = 0; i < cols; i++)
+void FindMeanInColumns(int[,] array)
 {
-    double summa = 0.0;
-    for (int j = 0; j < rows; j++)
+    Console.Write("Arithmetic mean of the elements in each column: ");
+    for (int i = 0; i < array.GetLength(1); i++)
     {
-        summa += arr[j, i];
+        double summa = 0.0;
+        for (int j = 0; j < array.GetLength(0); j++)
+        {
+            summa += array[j, i];
+        }
+        Console.Write(Math.Round(summa / array.GetLength(0), 2) + ", ");
     }
-    Console.Write(Math.Round(summa / rows, 2) + ", ");
 }
+
+int[,] arr = CreateAndShowArrayRowXCol(rows, cols);
+FindMeanInColumns(arr);
