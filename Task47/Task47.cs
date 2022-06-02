@@ -1,9 +1,7 @@
-﻿// Create a two-dimension array, fiiled with real numbers.
+﻿// Create a two-dimensional array, fiiled with real numbers.
 
-Console.Write("Enter count of array rows: ");
-int rows = int.Parse(Console.ReadLine());
-Console.Write("Enter count of array columns: ");
-int cols = int.Parse(Console.ReadLine());
+int rows = 3;
+int cols = 4;
 
 double[,] CreateAndShowArrayRowXCol(int row, int col)
 {
