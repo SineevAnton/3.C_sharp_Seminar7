@@ -1,0 +1,15 @@
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/bin/Debug/net6.0/Task50
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/bin/Debug/net6.0/Task50.deps.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/bin/Debug/net6.0/Task50.runtimeconfig.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/bin/Debug/net6.0/Task50.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/bin/Debug/net6.0/Task50.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/Task50.csproj.AssemblyReference.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/Task50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/Task50.AssemblyInfoInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/Task50.AssemblyInfo.cs
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/Task50.csproj.CoreCompileInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/Task50.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/refint/Task50.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/Task50.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/Task50.genruntimeconfig.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/3.C_sharp_Seminar7/3.C_sharp_Seminar7/Task50/obj/Debug/net6.0/ref/Task50.dll
